@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Jaywoong Jeong! 👋</h1>
 <p align="center">
-  <strong>Industrial & Systems Engineering @ KAIST</strong><br>
+  <strong>Math & Industral Design @ KAIST</strong><br>
   Multi-Agent RL | Computational Social Science | Human Coputer Interaction
 </p>
 <p align="center">
